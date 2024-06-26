@@ -1,6 +1,6 @@
 # Shinobi Revenge
 
-![Shinobi Revenge Logo](http://playshinobirevenge.com/frontend/banner 1.jpg)
+![Shinobi Revenge Logo](http://playshinobirevenge.com/frontend/banner%201.jpg)
 
 ## Overview
 

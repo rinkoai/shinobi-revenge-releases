@@ -23,7 +23,7 @@
 
 1. Download the ZIP file from the link above.
 2. Extract the contents of the ZIP file to a folder on your computer.
-3. Open the extracted folder and run `ShinobiRevenge.exe` to start the game.
+3. Open the extracted folder and run `Shinobirevenge.exe` to start the game.
 
 ### For Android (APK File)
 
@@ -47,7 +47,7 @@
 
 ## Support
 
-If you encounter any issues or have any questions, please visit our [Support Page](https://github.com/username/repository/issues) or contact us at support@shinobirevenge.com.
+If you encounter any issues or have any questions, please visit our [Discord](https://discord.gg/TK6qFfhv).
 
 ## License
 

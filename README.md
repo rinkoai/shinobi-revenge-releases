@@ -59,6 +59,6 @@ Thank you for downloading and playing Shinobi Revenge. We hope you enjoy the gam
 
 ## Follow Us
 
-- [Twitter](https://twitter.com/shinobirevenge)
-- [Facebook](https://facebook.com/shinobirevenge)
-- [Website](https://shinobirevenge.com)
+- [Discord](https://discord.gg/TK6qFfhv)
+- [Facebook](https://facebook.com/groups/shinobirevenge?_rdc=1&_rdr)
+- [Website](https://playshinobirevenge.com)
